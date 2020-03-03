@@ -1,2 +1,2 @@
 echo "Hello world : %date% : %time%"
-echo "I am in Mater branch"
+echo "I am in features branch"
